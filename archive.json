@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-04-02T00:40:12.088963+00:00",
+  "timestamp": "2024-04-04T00:40:16.352399+00:00",
   "repo": "cfrg/draft-irtf-cfrg-frost",
   "labels": [
     {
@@ -28713,7 +28713,7 @@
       "labels": [],
       "body": "In the algorithm descriptions, the message is sent in the second round. Fig. 1 should reflect this. ",
       "createdAt": "2024-01-11T15:42:51Z",
-      "updatedAt": "2024-01-11T19:56:57Z",
+      "updatedAt": "2024-04-03T18:17:22Z",
       "baseRepository": "cfrg/draft-irtf-cfrg-frost",
       "baseRefName": "master",
       "baseRefOid": "127452b93acb3094a6f659d059550df5618c2714",
@@ -28738,6 +28738,13 @@
           "body": "Merge blocked until reply from RFC editor",
           "createdAt": "2024-01-11T17:45:51Z",
           "updatedAt": "2024-01-11T17:45:51Z"
+        },
+        {
+          "author": "bifurcation",
+          "authorAssociation": "NONE",
+          "body": "@chris-wood There are no formal bounds on what changes can be made in AUTH48.  Corrections like this seem appropriate to me.",
+          "createdAt": "2024-04-03T18:17:21Z",
+          "updatedAt": "2024-04-03T18:17:21Z"
         }
       ],
       "reviews": []
